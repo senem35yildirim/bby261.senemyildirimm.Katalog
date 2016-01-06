@@ -4,6 +4,14 @@
     <title>Kitap Araması</title>
     <script type="text/javascript" src="database.js"></script>
 </head>
+    <style>
+    
+            body { 
+                background-image:url(images/arkaplan.jpg);
+    background-color: #cccccc;
+            }
+   
+    </style>
 <body>
 <center>   
 <h1 style= "color:green">KİTAP İSMİ İLE ARAMA</h1> 
@@ -28,10 +36,9 @@ for(var i=0;i<20;i++)
     
     
         if(catalog[i].itemName.toLowerCase().indexOf(gelen.toLowerCase())!=-1)
-    {
+     {
    document.getElementById("sonuc").innerHTML += "<p>" +"<img src='" + catalog[i].itemImage + "' height='125' width='85'/><br>" + "<strong>" + catalog[i].itemName + "</strong><br>" + 
-     catalog[i].itemAuthor + "<br>" + "Yayınevi: " + catalog[i].itemPublisher + "<br>" + catalog[i].itemDescription +"Dili: " + catalog[i].itemLanguage + "<br>" + "Sayfa Sayısı: " + 
-     catalog[i].itemNumberofpages + "<br>" + "Yayın Yılı: " + catalog[i].itemCreationDate + "<hr>" + "</p>";     
+     catalog[i].itemAuthor + "<br>"+ "<br>" + catalog[i].itemDescription + "<br>"   + "Yayın Yılı: " + catalog[i].itemCreationDate + "<hr>" + "</p>";     
     }
      
 }

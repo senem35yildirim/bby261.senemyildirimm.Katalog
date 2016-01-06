@@ -4,7 +4,15 @@
  <title>Kitaplar</title> 
  <meta charset="utf-8"/> 
  <script src="database.js"></script> 
- </head> 
+ </head>
+     <style>
+    
+            body { 
+                background-image:url(images/arkaplan.jpg);
+    background-color: #cccccc;
+            }
+   
+    </style>
  <body> 
    
      <p id="goster"></p> 
@@ -14,7 +22,8 @@
  document.getElementById("goster").innerHTML += "<p>" +"<img src='" + catalog[i].itemImage + "' height='125' width='85'/><br>" + "<strong>" + catalog[i].itemName + "</strong><br>" + catalog[i].itemAuthor + "<br>" + catalog[i].itemCreationDate + "<br>" + catalog[i].itemDescription + "</p>"; 
  } 
  </script> 
-      
+  <center> <p><a href="index.html">Ana Menüye Dön</a></p>
+     </center>    
       
  </body> 
  </html> 
