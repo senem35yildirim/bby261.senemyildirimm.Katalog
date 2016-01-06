@@ -6,6 +6,13 @@ var catalog = [
          "itemCreationDate":"2015", 
          "itemDescription":"<p>Eski öğrenci Raskolnikov, kiracıdan kiraladığı daracık odasında beş parasız günler geçirmektedir. Modern zamanların, çağdaş bilimin ve edebiyatın bu yaratıcı, akıllı genci, toplumun gerici bir canavara dönüşmüş karanlık avucunda ezilip un ufak mı olacaktır yoksa? Bir gün oturduğu bir kafede, anarşist düşüncelere sahip gençlerin konuşmalarına kulak misafiri olur ve aklına tüm dertlerine son verecek bir şey gelir. İlk iş olarak da kapıcının kulübesindeki baltayı kestirir gözüne. Dünya edebiyatının en ünlü baltasını...Suç ve Ceza ilk kez 1866 yılında yayımlandı. O tarihten sonra da dünyanın gündeminden hiç düşmedi. Dostoyevski, hiç aceleye gelmemesi gerektiğini düşündüğü yeni bir karakter yakalamıştı. Rusya'yı, Rus halkını gözlemleyerek Raskolnikov'u onların içinden çekip almıştı. Öykü, tüm yönleriyle çürüdüğü açıkça görülen geleneksel iyilik algısının toplum tarafından nasıl öz göre göre korunduğunu anlatır. Dostoyevski'nin Suç ve Cezası, insanlığa sorduğu can alıcı sorularla güncelliğini hiç yitirmeyen en büyük başyapıtlar arasında. Hala...  <br>(Tanıtım Bülteninden)</p>" 
  },
+    { 
+         "itemName":"Aşk Neden Can Yakar?", 
+      "itemAuthor":"Mehmet Yıldız", 
+      "itemImage":"images/ask.jpg", 
+         "itemCreationDate":"2015", 
+         "itemDescription":"<p>Ne yaparsan yap olmaz bazen. Ama o kadar güzel olmaz ki, 'Ancak bu kadar güzel olmayabilirdi' dersin. Ve aklına gelir: 'Kadere iman eden kederden emin olur.' Sonra anlarsın ki, nar tanelerini teker teker yerli yerine yerleştiren Rabbin, seni de hangi gönle yerleştireceğini bilir. Tek yapman gereken kara geceleri kudret kalemiyle güneşe boyayan, kahverengi odundan pembe çiçekler açtıran Allah'a inanmak. O'na inanırsan yaklaşmak için tuttuğun elin aslında Allah'tan uzaklaştırdığını anlarsın. O'na inanırsan batıp gidenlerden medet ummaz kalbin esas sahibine yönelirsin. O'na inanırsan 'aşk neden can yakar' anlar ve sabır ipliğiyle diktiğin tüm yaralarını tedavi edersin. İstemez misin kor ateşler etrafını sararken yanmayan bir İbrahim olmayı... <br>(Tanıtım Bülteninden)</p>" 
+ },  
 
     { 
          "itemName":"Seviyorsan Git Konuş Bence", 
